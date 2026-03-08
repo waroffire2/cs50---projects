@@ -1,9 +1,22 @@
-The game link is posted under:
+Princess Rescue Game (Scratch)
+
+Play the game:
 https://scratch.mit.edu/projects/1276553301
 
-I plan on improving the game in the future by adding more sense to the levels.
-Border control
-Good ending scenario
-Bad ending scenario
-Knight having 3 lives and having to dodge special skeletons in level 1
-Improve the boss level
+Description
+This is an interactive story-based game developed in Scratch. 
+A ghost king kidnaps the princess and the player controls a knight 
+who must defeat skeleton enemies to progress through the game.
+
+Features
+- WASD keyboard movement
+- Skeleton enemies spawn when defeated at random locations
+- Enemies automatically approach the player
+- Level progression after defeating enough skeletons
+- Final boss fight against the Ghost King
+
+Future Improvements
+- Add border collision control
+- Implement good and bad ending scenarios
+- Add a 3-life system for the knight
+- Improve boss level and skeleton level mechanics
